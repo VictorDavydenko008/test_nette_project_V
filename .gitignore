@@ -1,0 +1,8 @@
+.idea/*
+/vendor/*
+/temp/*
+/config/*
+/log/*
+composer.lock
+.gitignore
+1.html
